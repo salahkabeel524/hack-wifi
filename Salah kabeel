@@ -1,0 +1,6 @@
+pkg install git 
+pkg install python2 
+ls
+git clone https://github.com/salahkabeel524/hack-wifi.git
+cd hack-wifi.git
+python2 salahhack.py
